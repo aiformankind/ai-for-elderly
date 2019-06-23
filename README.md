@@ -11,22 +11,22 @@ Here are some existing main use cases/applications.
 1) At Home Health Monitoring
 
 Companies: 
-[Biotricity](https://www.biotricity.com/)
-[CarePredict](https://www.carepredict.com/)
+* [Biotricity](https://www.biotricity.com/)
+* [CarePredict](https://www.carepredict.com/)
 
 2) Assisted Fall Detection
 
 Companies:
-[Kardian](https://kardian.com/)
-[Kepler Vision Technologies](https://keplervision.eu/)
+* [Kardian](https://kardian.com/)
+* [Kepler Vision Technologies](https://keplervision.eu/)
 
 3) Virtual Assistants
 
 Companies:
-[Orbita](https://orbita.ai/)
+* [Orbita](https://orbita.ai/)
 
 4) Virtual Companions
 
 Companies
-[Catalia Health](http://www.cataliahealth.com/)
-[ElliQ](https://elliq.com/)
+* [Catalia Health](http://www.cataliahealth.com/)
+* [ElliQ](https://elliq.com/)
